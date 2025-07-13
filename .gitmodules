@@ -1,0 +1,6 @@
+[submodule "Timing-Simulator"]
+	path = Timing-Simulator
+	url = https://github.com/Akshath-Mahajan/Timing-Simulator
+[submodule "Functional-Simulator"]
+	path = Functional-Simulator
+	url = https://github.com/Akshath-Mahajan/Vector-Simulator
